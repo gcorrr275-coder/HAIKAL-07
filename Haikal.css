@@ -297,7 +297,6 @@ footer {
     text-align: left;
 }
 
-/* ================= Media Queries ================= */
 @media (max-width: 1200px) {
     .navbar {
         padding: 1rem;
