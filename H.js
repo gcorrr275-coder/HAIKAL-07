@@ -1,1 +1,0 @@
-alert("Hallo selamat datang di formulir pendaftaran");
